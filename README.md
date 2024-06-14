@@ -1,4 +1,6 @@
 # LLM_Workshop
+
+Link to the [deck](https://my.visme.co/view/01e7n9k1-llms#s22).
 This repository has all the materials used as part of the workshop.
 
 # Prerequisites
